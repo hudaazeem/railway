@@ -1,24 +1,11 @@
-# README
+# Railway
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails app I'm building to fulfill Hack Club Hackatime submission requirements.
 
-Things you may want to cover:
+It includes:
+- Full CRUD functionality
+- A personalized theme (e.g. book tracker, mood log, etc.)
+- Live deployment
+- Open source code
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Stay tuned for screenshots and live link!
